@@ -17,3 +17,22 @@
 <li>: Elemento de lista.
 <div>: Contenedor genérico.
 <span>: Contenedor en línea genérico.
+
+  body {
+ background-color: blue;
+}
+.card {
+width: 160px;
+flex-directions; colum
+justify-content;flex-start;
+border:lpx solid black;
+padding 10px;
+}
+h1 {
+font-sizers 18px;
+}
+
+.tamano {
+widths 140px;
+heights 260px;
+}
